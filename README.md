@@ -39,5 +39,6 @@ To analyze 25K+ sales records and identify key business insights using Power BI 
  [Dashboard](images/dashboard_overview.png)
 
  Project Structure
-- Screenshots
-- Dataset (CSV)
+- Dashboard
+- Dataset
+- Images
