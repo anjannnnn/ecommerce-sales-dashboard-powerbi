@@ -1,21 +1,30 @@
-# E-Commerce Sales Dashboard (Power BI)
+# 📊 E-Commerce Sales Dashboard (Power BI)
 
- Overview
-Interactive dashboard to analyze sales, profit, and customer trends.
+## 📌 Project Overview
+This project analyzes an e-commerce dataset of 25,000+ records to identify sales trends, profit distribution, and regional performance using Power BI.
 
-Tools Used
+## 🛠️ Tools Used
 - Power BI
-- DAX
-- Data Modeling
+- Python (Pandas)
+- SQL
 
-Key Insights
-- Total Sales: 522K+
-- Profit: 67K+
-- Identified top-performing regions and categories
+## 📈 Key KPIs
+- Total Sales: ₹52K+
+- Total Profit: ₹67K+
+- Total Quantity Sold: 7K+
 
-Features
-- KPI cards
-- Drill-down analysis
-- Time-series trends (YoY, monthly)
+## 🔍 Key Insights
+- West region generated the highest sales revenue
+- Technology category showed the highest profit margins
+- Certain regions showed consistent low performance, indicating improvement areas
 
+## 📊 Dashboard Preview
+![Dashboard](images/dashboard.png)
 
+## 📁 Files Included
+- `ecommerce_dashboard.pbix`
+- Dataset (CSV)
+- Dashboard screenshots
+
+## 🚀 Outcome
+This dashboard enables stakeholders to track KPIs, identify trends, and make data-driven business decisions.
