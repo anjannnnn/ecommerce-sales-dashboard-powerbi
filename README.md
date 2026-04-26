@@ -18,7 +18,7 @@ To analyze 25K+ sales records and identify key business insights using Power BI 
 - Quantity Sold
 - Profit by Month
 
-  Key Insights
+ Key Insights
 - West region contributes highest revenue
 - Technology category drives maximum profit
 - Sales decline observed in mid-year months
