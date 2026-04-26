@@ -1,27 +1,34 @@
 E-Commerce Sales Dashboard (Power BI)
 
-Project Overview
-This project analyzes an e-commerce dataset of 25,000+ records to identify sales trends, profit distribution, and regional performance using Power BI.
+ Business Problem
+E-commerce businesses need visibility into sales performance, customer behavior, and profit trends to make informed decisions.
 
-Tools Used
+Objective
+To analyze 25K+ sales records and identify key business insights using Power BI dashboards.
+
+ Tools Used
 - Power BI
 - Python (Pandas)
-- SQL
 
-Key KPIs
-- Total Sales: ₹52K+
-- Total Profit: ₹67K+
-- Total Quantity Sold: 7K+
 
-Key Insights
-- West region generated the highest sales revenue
-- Technology category showed the highest profit margins
-- Certain regions showed consistent low performance, indicating improvement areas
+ Key KPIs
+- Total Sales
+- Total Profit
+- Quantity Sold
+- Profit by Month
 
- Files Included
+ Key Insights
+- Top-performing states contribute majority of revenue
+- Certain product categories dominate total sales quantity
+- Profit trends show seasonal fluctuations across months
+- Payment modes vary significantly by customer behavior
 
-- Dataset (xlsx)
-- Dashboard screenshots
+ Business Impact
+This dashboard helps stakeholders:
+- Identify high-performing regions
+- Track monthly performance trends
+- Optimize product and sales strategies
 
- Outcome
-This dashboard enables stakeholders to track KPIs, identify trends, and make data-driven business decisions.
+ Project Structure
+- Screenshots
+- Dataset (CSV)
