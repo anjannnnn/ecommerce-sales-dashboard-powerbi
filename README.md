@@ -18,12 +18,12 @@ To analyze 25K+ sales records and identify key business insights using Power BI 
 - Quantity Sold
 - Profit by Month
 
- Key Insights
-- Top-performing states contribute majority of revenue
-- Certain product categories dominate total sales quantity
-- Profit trends show seasonal fluctuations across months
-- Payment modes vary significantly by customer behavior
-
+  Key Insights
+- West region contributes highest revenue
+- Technology category drives maximum profit
+- Sales decline observed in mid-year months
+- Top customers contribute major share of revenue
+  
  Business Impact
  This dashboard helps stakeholders:
 - Identify high-performing regions
