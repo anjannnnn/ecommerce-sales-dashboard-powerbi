@@ -1,4 +1,3 @@
-E-Commerce Sales Dashboard (Power BI)
 A business-focused Power BI dashboard analyzing 25K+ e-commerce records to uncover trends, optimize performance, and drive data-driven decisions.
 
 Includes Power BI dashboard (.pbix), dataset, and business insights
