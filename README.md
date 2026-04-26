@@ -28,6 +28,11 @@ To analyze 25K+ sales records and identify key business insights using Power BI 
 - Track monthly performance trends
 - Optimize product and sales strategies
 
+ Recommendations
+- Focus marketing on top-performing regions
+- Improve low-performing categories
+- Optimize pricing during low-profit months
+
  Project Structure
 - Screenshots
 - Dataset (CSV)
