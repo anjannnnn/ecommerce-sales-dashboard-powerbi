@@ -10,7 +10,6 @@ To analyze 25K+ sales records and identify key business insights using Power BI 
 - Power BI
 - Python (Pandas)
 
-
  Key KPIs
 - Total Sales
 - Total Profit
@@ -24,7 +23,7 @@ To analyze 25K+ sales records and identify key business insights using Power BI 
 - Payment modes vary significantly by customer behavior
 
  Business Impact
-This dashboard helps stakeholders:
+ This dashboard helps stakeholders:
 - Identify high-performing regions
 - Track monthly performance trends
 - Optimize product and sales strategies
