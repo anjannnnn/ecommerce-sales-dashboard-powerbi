@@ -1,5 +1,7 @@
 E-Commerce Sales Dashboard (Power BI)
 
+ Includes Power BI dashboard (.pbix), dataset, and business insights
+ 
  Business Problem
 E-commerce businesses need visibility into sales performance, customer behavior, and profit trends to make informed decisions.
 
@@ -32,6 +34,9 @@ To analyze 25K+ sales records and identify key business insights using Power BI 
 - Focus marketing on top-performing regions
 - Improve low-performing categories
 - Optimize pricing during low-profit months
+
+ Dashboard Preview
+ [Dashboard](images/dashboard_overview.png)
 
  Project Structure
 - Screenshots
